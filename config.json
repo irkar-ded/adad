@@ -1,0 +1,14 @@
+{
+    "ip": "majormine2.aternos.me",
+    "port": 18836,
+    "name": "YbichaCrovi228",
+    "auto-night-skip": "false",
+    "join-msg": "Hi boys!!!)))3>",
+    "join-msg-on": "true",
+    "custom-message-enabled": "false",
+    "custom-message-1": "subscribe to LION BOY",
+    "custom-message-2": "subscribe to LION BOY",
+    "login-enabled": "true",
+    "register-cmd": "/register 12345678 12345678",
+    "login-cmd": "/login 12345678"
+}
